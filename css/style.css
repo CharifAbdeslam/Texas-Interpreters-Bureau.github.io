@@ -983,8 +983,9 @@ p, .whartc h3 {
 .banner-bottom div {
   margin: 4% 0;
   width: 470px;
-  height: 300px;
+  height: 317px;
   background-color: rgba(241, 241, 241, 0.7);
+
 }
 
 .banner-bottom p {
@@ -1474,7 +1475,7 @@ nav {
 }
 
 .midValue {
-  width: 20%;
+  width: 30%;
   margin: 0 auto;
 }
 
