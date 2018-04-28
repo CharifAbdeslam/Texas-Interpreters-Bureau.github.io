@@ -616,19 +616,17 @@ a:hover {
 .tobg {
   display: flex;
   justify-content: center;
-  border: solid 1px;
   height: 250px;
   width: auto;
   background: url(../img/2tstimg/bg-banner.png) center center no-repeat;
   background-size: cover;
-  box-shadow: 2px 4px 21px rgb(45, 89, 143);
 }
 
 .txtbanner span:nth-child(1) {
-  color: black;
-  font-weight: 700;
+  color: #272727;
+font-weight: bolder;
+font-style: italic;
 }
-
 .txtbanner h3 {
   font-family: 'Lato', sans-serif;
   font-size: 18px;
@@ -943,6 +941,7 @@ p, .whartc h3 {
   background-color: rgba(0, 0, 0, .7);
   padding: 20px;
   opacity: 0;
+  height: 36px;
 }
 
 .dvd-bottom {
@@ -1523,8 +1522,9 @@ img {
 }
 
 #map {
+  float:right;
   height: 400px;
-  width: 100%;
+  width: 75%;
   border-radius: 15px;
 }
 .container-St{
