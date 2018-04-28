@@ -1265,6 +1265,7 @@ p, .whartc h3 {
   letter-spacing: 2px !important;
   color: white !important;
   font-weight: lighter !important;
+  margin: 0;
 }
 
 #underline-book {
